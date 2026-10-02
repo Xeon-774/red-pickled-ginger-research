@@ -71,6 +71,16 @@ Issue #3 adds a dose-based screen rather than a synthetic/natural heuristic.
 
 See `docs/additive-safety-exposure.md` and `data/product-additive-screen.csv`.
 
+## Hadano local-price status
+
+Remote verification on 2026-10-02 found **no current Hadano-specific shelf price** that meets the repository evidence rule.
+
+- 業務スーパー秦野店 exists and the 1 kg low-sodium SKU exists at chain level, but the official online listing is currently out of stock and explicitly says store/time pricing differs.
+- イオン秦野店 exists; the Topvalu 60 g SKU has a chain-standard price of ¥116.64, but that is not a verified Hadano shelf price.
+- Lopia, York Foods, Belc and MaxValu Hadano targets are verified stores, but ordinary-shelf red-ginger price/stock was not exposed by current web material.
+
+See `docs/hadano-retail-survey.md`. Issue #4 therefore remains open pending direct or store-specific observations.
+
 ## Practical baseline
 
 At the user's initial consumption of about 300 g/month, the 生姜工房 600g mail-order pack represents about two months of consumption and is currently the cleanest verified price baseline for a natural-color product with nationwide free shipping.
