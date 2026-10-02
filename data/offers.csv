@@ -1,0 +1,6 @@
+offer_id,product_id,seller,pack_count,normalization_mass_g,normalization_basis,item_price_jpy,shipping_jpy,shipping_verified_for_hadano,delivered_total_jpy,item_jpy_per_100g,hadano_delivered_jpy_per_100g,observed_date,price_source_url,notes
+O001,P001,生姜工房 Yahoo!店,1,600,内容量,760,0,yes,760,126.67,126.67,2026-10-02,https://store.shopping.yahoo.co.jp/shougakoubou/beni-dm-1000.html,全国一律送料無料
+O002,P002,業務スーパー秦野店,1,1000,内容量,,,,,,,2026-10-02,https://www.gyomusuper.jp/product/detail.php?go_id=3695,店頭価格未取得
+O003,P003,岩下の新生姜オンラインショップ,1,50,内容量,200,,no,,400.00,,2026-10-02,https://www.shinshoga.shop/shopdetail/000000000040/,送料未算入
+O004,P004,Yahoo!ショッピング掲載店,1,1000,内容量,806,570,no,1376,80.60,,2026-10-02,https://shopping.yahoo.co.jp/products/z4gg05kuge,送料570円は検索時表示で秦野向け未検証
+O005,P005,食品のネットスーパー・さんきん Yahoo!店,1,1000,内容量,522,910,no,1432,52.20,,2026-10-02,https://store.shopping.yahoo.co.jp/kani/jfd00976.html,送料910円は検索時表示で秦野向け未検証
