@@ -1,0 +1,10 @@
+observation_id,store_id,product_id,local_availability,local_shelf_price_tax_included_jpy,reference_price_jpy,reference_price_type,evidence_date,evidence_source_url,status,notes
+H001,S001,P002,unknown,,,none,2026-10-02,https://www.gyomusuper.jp/onlineshop/products/detail/4464,field_check_required,公式オンラインでは1kg SKUが品切れ;店舗価格は店舗・時期で異なると明記;秦野店の在庫と価格は未確認
+H002,S002,P007,unknown,,116.64,AEON_group_standard_retail_price,2026-10-02,https://www.topvalu.net/items/detail/4901810486755/,field_check_required,60g PB商品は現行;標準価格は税込116.64円だが秦野店実売価格と在庫は未確認
+H003,S003,,unknown,,,none,2026-10-02,https://lopia.jp/shops/hadano,field_check_required,店舗は確認済み;紅しょうがSKUと価格をWebでは確認できず
+H004,S004,,unknown,,,none,2026-10-02,https://lopia.jp/shops/,field_check_required,店舗は確認済み;紅しょうがSKUと価格をWebでは確認できず
+H005,S005,,unknown,,,none,2026-10-02,https://www.york-inc.com/store/hadanomidorityou.html,field_check_required,当日チラシも確認したが紅しょうが掲載なし;通常棚SKUと価格は未確認
+H006,S006,,unknown,,,none,2026-10-02,https://www.york-inc.com/store/,field_check_required,店舗は確認済み;通常棚SKUと価格は未確認
+H007,S007,,unknown,,,none,2026-10-02,https://www.belc.jp/shop/0125,field_check_required,当日公式チラシ掲載商品を確認したが紅しょうが掲載なし;通常棚SKUと価格は未確認
+H008,S008,P007,unknown,,116.64,AEON_group_standard_retail_price,2026-10-02,https://www.topvalu.net/items/detail/4901810486755/,field_check_required,同じイオングループPBの候補;店舗実売価格と在庫は未確認
+H009,S009,P007,unknown,,116.64,AEON_group_standard_retail_price,2026-10-02,https://www.topvalu.net/items/detail/4901810486755/,field_check_required,同じイオングループPBの候補;店舗実売価格と在庫は未確認
