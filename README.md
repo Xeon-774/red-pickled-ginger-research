@@ -50,6 +50,9 @@ Default comparison assumptions:
 - [Additive safety and exposure](docs/additive-safety-exposure.md)
 - [Additive reference data](data/additives.csv)
 - [Product additive screen](data/product-additive-screen.csv)
+- [Hadano retail survey](docs/hadano-retail-survey.md)
+- [Hadano store targets](data/hadano-stores.csv)
+- [Hadano retail observations](data/hadano-retail-observations.csv)
 
 ## Initial research tracks
 
