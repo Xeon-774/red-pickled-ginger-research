@@ -47,6 +47,9 @@ Default comparison assumptions:
 - [Product facts](data/products.csv)
 - [Dated offers](data/offers.csv)
 - [Research methodology](docs/research-methodology.md)
+- [Additive safety and exposure](docs/additive-safety-exposure.md)
+- [Additive reference data](data/additives.csv)
+- [Product additive screen](data/product-additive-screen.csv)
 
 ## Initial research tracks
 

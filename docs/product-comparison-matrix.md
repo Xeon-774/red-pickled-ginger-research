@@ -54,6 +54,23 @@ No current row is yet verified to combine all three:
 
 That is a search gap, not evidence that no such product exists.
 
+## Additive-screen view
+
+Issue #3 adds a dose-based screen rather than a synthetic/natural heuristic.
+
+| Product | Additive status |
+|---|---|
+| 生姜工房 600g | potassium sorbate conditionally passes the <=10% ADI project rule at the Japanese vinegar-pickle legal maximum; acidulant identity unresolved |
+| 業務スーパー 1kg | Red 102 unresolved due unknown concentration; potassium sorbate conditionally passes; stevia unresolved; acidulant identity unresolved |
+| 岩下 国産・25%カット | acidulant identity unresolved; no listed sorbate |
+| JFDA 平切 1kg | no additive issue identified from the current simple ingredient list |
+| JFDA 千切り 1kg | Red 102 and Yellow 4 unresolved due unknown concentrations; potassium sorbate conditionally passes; acidulant identity unresolved |
+| 紀州ふみこ 600g | no listed additive requiring this screen |
+
+"Conditionally passes" means the calculation assumes the SKU falls under the Japanese 0.50 g/kg-as-sorbic-acid limit for vinegar-pickled pickles. It is not a claim about the manufacturer's actual concentration.
+
+See `docs/additive-safety-exposure.md` and `data/product-additive-screen.csv`.
+
 ## Practical baseline
 
 At the user's initial consumption of about 300 g/month, the 生姜工房 600g mail-order pack represents about two months of consumption and is currently the cleanest verified price baseline for a natural-color product with nationwide free shipping.
