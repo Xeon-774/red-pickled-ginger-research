@@ -58,6 +58,8 @@ Default comparison assumptions:
 - [DIY cost scenarios](data/diy-cost-scenarios.csv)
 - [Rinsing evidence](data/rinsing-evidence.csv)
 - [Experimental protocol](docs/experimental-protocol.md)
+- [Manufacturer inquiry plan](docs/manufacturer-inquiry-plan.md)
+- [Manufacturer inquiry tracker](data/manufacturer-inquiries.csv)
 
 ## Initial research tracks
 
