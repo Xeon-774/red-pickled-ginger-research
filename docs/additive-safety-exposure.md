@@ -29,7 +29,7 @@ Scenarios:
 |---|---:|---:|---:|---:|---|
 | Red 102 / Ponceau 4R | 0.7 mg/kg bw/day (EFSA) | 4.9 mg/day | 98 mg/kg food | 49 mg/kg food | concentration unknown |
 | Yellow 4 / Tartrazine | 7.5 mg/kg bw/day (EFSA) | 52.5 mg/day | 1050 mg/kg food | 525 mg/kg food | concentration unknown |
-| Sorbic acid / potassium sorbate | 11 mg/kg bw/day as sorbic acid (EFSA) | 77 mg/day | — | — | conditionally quantifiable from Japanese legal maximum |
+| Sorbic acid / potassium sorbate | 11 mg/kg bw/day as sorbic acid (EFSA) | 77 mg/day | 1540 mg/kg food | 770 mg/kg food | conditionally quantifiable from Japanese legal maximum |
 | Steviol glycosides | 4 mg/kg bw/day as steviol (JECFA) | 28 mg/day | 560 mg/kg steviol-equivalent | 280 mg/kg steviol-equivalent | concentration / composition unknown |
 | Red 106 / Acid Red | no numeric ADI | — | — | — | project 10% rule cannot be applied |
 | "acidulant" / "pH regulator" | not a single chemical | — | — | — | identity required |
