@@ -81,6 +81,18 @@ Remote verification on 2026-10-02 found **no current Hadano-specific shelf price
 
 See `docs/hadano-retail-survey.md`. Issue #4 therefore remains open pending direct or store-specific observations.
 
+## DIY and rinsing status
+
+Issue #5 remote research separates three strategies:
+
+- **Traditional red-ume-vinegar DIY:** item-only model is roughly ¥89-115 per 100 g raw ginger input with low-cost ume vinegar, but finished yield and sodium remain unknown. It is not yet a valid finished-product price.
+- **Rinsing / soaking commercial product:** published work on other foods shows sodium can leach into water, but no red-ginger-specific reduction factor is assigned. Direct measurement is required.
+- **Low-sodium acidified DIY:** ordinary vinegar gives a much lower input-cost model (about ¥68-77 per 100 g raw ginger input before colorant/salt), but this is an experimental refrigerated formulation requiring measured pH <=4.0 and validation.
+
+Freezing remains a fallback for waste control rather than a quality-first strategy because pickle manufacturers warn of crispness/flavor loss.
+
+See `docs/diy-low-sodium-and-rinsing.md` and `docs/experimental-protocol.md`. Issue #5 remains open pending red-ginger measurements.
+
 ## Practical baseline
 
 At the user's initial consumption of about 300 g/month, the 生姜工房 600g mail-order pack represents about two months of consumption and is currently the cleanest verified price baseline for a natural-color product with nationwide free shipping.
