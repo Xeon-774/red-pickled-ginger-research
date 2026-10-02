@@ -53,6 +53,10 @@ Default comparison assumptions:
 - [Hadano retail survey](docs/hadano-retail-survey.md)
 - [Hadano store targets](data/hadano-stores.csv)
 - [Hadano retail observations](data/hadano-retail-observations.csv)
+- [DIY / rinsing comparison](docs/diy-low-sodium-and-rinsing.md)
+- [DIY cost scenarios](data/diy-cost-scenarios.csv)
+- [Rinsing evidence](data/rinsing-evidence.csv)
+- [Experimental protocol](docs/experimental-protocol.md)
 
 ## Initial research tracks
 
