@@ -41,6 +41,13 @@ Default comparison assumptions:
 5. Compare commercial, bulk, retail, rinsed, and DIY scenarios separately.
 6. Keep issue-driven work so findings remain auditable.
 
+## Canonical data
+
+- [Product comparison matrix](docs/product-comparison-matrix.md)
+- [Product facts](data/products.csv)
+- [Dated offers](data/offers.csv)
+- [Research methodology](docs/research-methodology.md)
+
 ## Initial research tracks
 
 - #2 Product comparison matrix
