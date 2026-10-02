@@ -25,17 +25,27 @@ Canonical files:
 
 The store is officially verified at 秦野市今泉台3-18-16.
 
-The chain's current 1 kg 紅千切生姜 SKU is also verified:
+The official site currently exposes **at least two distinct 1 kg SKUs with the same product name**:
 
-- JAN 4942355166511
-- China origin
-- 1 kg
-- salt equivalent 2.4 g/100 g solid portion
+1. **P002 / JAN 4942355166528 / page 3695**
+   - China origin
+   - solid amount 1 kg
+   - salt equivalent 2.4 g/100 g
+   - ingredient list explicitly includes acidulant, amino-acid seasoning, stevia, potassium sorbate and Red 102
+2. **P008 / JAN 4942355166511 / page 4464**
+   - China origin
+   - solid amount 1 kg
+   - salt equivalent 2.4 g/100 g
+   - accessible official page does not populate the ingredient field
+   - official online page currently reports out of stock
 
-However, the official online shop currently says the 1 kg item is **out of stock** and directs users to nearby stores. The same page explicitly states that online case prices differ from store/time-specific prices.
+These are not treated as interchangeable. In particular, additive evidence from JAN 6528 must not be copied to JAN 6511.
 
-Therefore:
+Therefore the Hadano field check must record the **JAN on the actual package** in addition to price and availability.
 
+Current state:
+
+- local SKU/JAN: unknown
 - local availability: unknown
 - Hadano shelf price: unknown
 - field priority: **highest**
@@ -43,8 +53,9 @@ Therefore:
 Store:
 https://www.gyomusuper.jp/shop/detail.php?sh_id=588
 
-Product:
-https://www.gyomusuper.jp/onlineshop/products/detail/4464
+Candidate products:
+- https://www.gyomusuper.jp/onlineshop/products/detail/3695
+- https://www.gyomusuper.jp/onlineshop/products/detail/4464
 
 ### 2. イオン秦野店
 
