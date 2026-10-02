@@ -1,0 +1,10 @@
+store_id,store_name,chain,address,phone,hours,store_source_url,observed_date,web_status,priority
+S001,業務スーパー秦野店,業務スーパー,神奈川県秦野市今泉台3-18-16,0463-84-8200,09:00-20:00,https://www.gyomusuper.jp/shop/detail.php?sh_id=588,2026-10-02,official_store_verified,1
+S002,イオン秦野店,イオン,神奈川県秦野市入船町12-1,0463-85-2000,食品売場07:00-22:00,https://www.aeon.com/store/list/%E7%B7%8F%E5%90%88%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC/%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%BB%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB/%E9%96%A2%E6%9D%B1%E5%9C%B0%E6%96%B9/%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C/%E3%82%A4%E3%82%AA%E3%83%B3%E7%A7%A6%E9%87%8E%E5%BA%97/,2026-10-02,official_store_verified,1
+S003,ロピア秦野店,ロピア,神奈川県秦野市曽屋4784,0463-80-2983,10:00-20:00,https://lopia.jp/shops/hadano,2026-10-02,official_store_verified,2
+S004,ロピア渋沢店,ロピア,神奈川県秦野市平沢307-1,0463-85-4120,,https://lopia.jp/shops/,2026-10-02,official_store_verified,2
+S005,ヨークフーズ秦野緑町店,ヨークフーズ,神奈川県秦野市緑町15-7,0463-82-7733,09:00-21:00,https://www.york-inc.com/store/hadanomidorityou.html,2026-10-02,official_store_verified,2
+S006,ヨークフーズ西大竹店,ヨークフーズ,神奈川県秦野市尾尻875,,09:00-22:00,https://www.york-inc.com/store/,2026-10-02,official_store_verified,2
+S007,ベルクフォルテ秦野店,ベルク,神奈川県秦野市曽屋1210,0463-83-5000,09:00-24:00,https://www.belc.jp/shop/0125,2026-10-02,official_store_verified,2
+S008,マックスバリュ秦野東田原店,マックスバリュ,神奈川県秦野市東田原96-1,0463-84-5770,07:00-23:30,https://www.mv-tokai.co.jp/store/%E7%A7%A6%E9%87%8E%E5%B8%82/,2026-10-02,official_store_verified,2
+S009,マックスバリュ秦野渋沢店,マックスバリュ,神奈川県秦野市堀川119-1,0463-87-5665,24時間,https://www.mv-tokai.co.jp/store/%E7%A7%A6%E9%87%8E%E5%B8%82/,2026-10-02,official_store_verified,2
