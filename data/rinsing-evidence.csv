@@ -1,0 +1,5 @@
+evidence_id,food_matrix,treatment,reported_sodium_or_salt_change,directly_applicable_to_red_ginger,source_url,interpretation
+R001,canned peas/green beans/corn,drain and rinse,about 5-12% sodium reduction,no,https://faseb.onlinelibrary.wiley.com/doi/10.1096/fasebj.25.1_supplement.609.3,Shows rinsing can remove sodium but magnitude is strongly matrix-dependent
+R002,tuna and cottage cheese,3-minute water rinse,80% and 63% sodium reduction,no,https://pubmed.ncbi.nlm.nih.gov/6833685/,Demonstrates large reductions in some foods but should not be transferred to pickled ginger
+R003,takuan cut into strips,water soak,about 40% salt elution at 5 min and 70% at 30 min,no,https://www.jstage.jst.go.jp/article/eiyogakuzashi1941/39/6/39_6_267/_article/-char/ja/,Most analogous evidence found but still a different vegetable and pickle matrix
+R004,pickled vegetables/general,salt reduction review,various methods can reduce sodium but affect safety/quality,no,https://www.sciencedirect.com/science/article/pii/S0924224425002699,Supports treating sodium reduction as a safety-quality tradeoff rather than a free improvement
