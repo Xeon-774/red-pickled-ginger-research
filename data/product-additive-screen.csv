@@ -1,0 +1,12 @@
+product_id,additive_id,label_evidence,concentration_mg_per_kg,upper_bound_mg_per_kg,upper_bound_basis,exposure_50g_mg,exposure_100g_mg,pct_ADI_50g,pct_ADI_100g,project_screen_status,reason
+P001,A003,ソルビン酸K,,500,conditional Japanese vinegar-pickle legal maximum as sorbic acid,25,50,3.25,6.49,conditional_pass,Passes project <=10% ADI target even at 100 g/day if the 0.50 g/kg vinegar-pickle limit applies
+P001,A006,酸味料,,,,,,,,identity_required,Collective label does not identify the chemical
+P002,A001,赤102,,,,,,,,unresolved,ADI exists but product concentration and applicable quantitative upper bound are unknown
+P002,A003,ソルビン酸K,,500,conditional Japanese vinegar-pickle legal maximum as sorbic acid,25,50,3.25,6.49,conditional_pass,Passes project <=10% ADI target even at 100 g/day if the 0.50 g/kg vinegar-pickle limit applies
+P002,A004,ステビア,,,,,,,,unresolved,ADI exists as steviol equivalents but product concentration and exact stevia composition are unknown
+P002,A006,酸味料,,,,,,,,identity_required,Collective label does not identify the chemical
+P003,A006,酸味料,,,,,,,,identity_required,Collective label does not identify the chemical
+P005,A001,赤102,,,,,,,,unresolved,ADI exists but product concentration and applicable quantitative upper bound are unknown
+P005,A002,黄4,,,,,,,,unresolved,ADI exists but product concentration and applicable quantitative upper bound are unknown
+P005,A003,ソルビン酸K,,500,conditional Japanese vinegar-pickle legal maximum as sorbic acid,25,50,3.25,6.49,conditional_pass,Passes project <=10% ADI target even at 100 g/day if the 0.50 g/kg vinegar-pickle limit applies
+P005,A006,酸味料,,,,,,,,identity_required,Collective label does not identify the chemical
