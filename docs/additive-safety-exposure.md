@@ -108,7 +108,7 @@ For a 70 kg adult:
 - 50 g/day product ceiling = 560 mg/kg as steviol equivalents
 - 100 g/day product ceiling = 280 mg/kg as steviol equivalents
 
-The Gyomu Super label states "stevia" but does not disclose the concentration, exact glycoside composition, or steviol-equivalent amount. It therefore cannot yet be quantitatively screened.
+The Gyomu Super **P002 / JAN 4942355166528** label states "stevia" but does not disclose the concentration, exact glycoside composition, or steviol-equivalent amount. It therefore cannot yet be quantitatively screened. This statement does not apply to the separate JAN 4942355166511 SKU unless its ingredient label is independently verified.
 
 Source:
 
@@ -156,14 +156,20 @@ Sources:
 
 ## Candidate implications
 
-### Gyomu Super 1 kg
+### Gyomu Super 1 kg — P002 / JAN 4942355166528
 
 - Red 102: unresolved due concentration
 - potassium sorbate: conditionally passes the 10% ADI rule at the Japanese vinegar-pickle legal maximum
 - stevia: unresolved due concentration / steviol-equivalent composition
 - acidulant: identity required if detailed assessment becomes necessary
 
-The product therefore should **not** be rejected solely because it contains Red 102, but it also cannot yet be given a fully quantified additive-clearance status.
+This SKU therefore should **not** be rejected solely because it contains Red 102, but it also cannot yet be given a fully quantified additive-clearance status.
+
+### Gyomu Super 1 kg — P008 / JAN 4942355166511
+
+The official page verifies 1 kg solid amount, Chinese origin and 2.4 g/100 g salt equivalent, but its accessible ingredient field is blank. The repository therefore does **not** infer Red 102, potassium sorbate, stevia or other additives from P002 despite the identical product name.
+
+Additive status: **unresolved pending package-label or manufacturer evidence**.
 
 ### Shoga Kobo 600 g
 

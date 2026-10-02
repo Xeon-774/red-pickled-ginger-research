@@ -15,13 +15,15 @@ Canonical data:
 4. A shipping charge shown for another region is not silently reused for Hadano.
 5. Unknown additive concentration remains unknown until a manufacturer value, applicable legal maximum, or analytical result is available.
 6. Prices are dated observations, not permanent facts.
+7. JAN is the preferred SKU identity when available; same-name products with different JANs are separate rows.
 
 ## Current view
 
 | Product | Form | Salt equivalent | Color / preservative | Observed item cost | Verified Hadano delivered cost | Primary gap |
 |---|---|---:|---|---:|---:|---|
 | 生姜工房 600g | shredded | 6.1 g/100g | red-radish / sorbate | ¥760 shipped | **¥126.67/100g content basis** | solid weight; high sodium |
-| 業務スーパー 1kg | shredded | **2.4 g/100g** | Red 102 / sorbate | unknown locally | unknown | Hadano shelf price; additive exposure |
+| 業務スーパー 1kg / JAN 6528 | shredded | **2.4 g/100g** | Red 102 / sorbate | unknown locally | unknown | Hadano shelf price; additive exposure |
+| 業務スーパー 1kg / JAN 6511 | shredded | **2.4 g/100g** | ingredient list not exposed on current page | online SKU currently out of stock | unknown | Hadano SKU identity; ingredients |
 | 岩下 国産・25%カット 50g | shredded | 3.6 g/100g | vegetable color / no listed sorbate | ¥200 before shipping | unknown | price efficiency; exact additive identities |
 | JFDA 平切 1kg | flat slice | unknown | no additives listed | ¥806 before shipping | unknown | sodium; origin; solid weight |
 | JFDA 千切り 1kg | shredded | unknown | Red 102 + Yellow 4 / sorbate | ¥522 before shipping | unknown | sodium; origin; additive exposure |
@@ -31,7 +33,7 @@ Canonical data:
 
 Among currently verified sodium values:
 
-- 業務スーパー: **2.4 g/100g** — meets the repository preferred threshold of <=3 g/100g.
+- 業務スーパー JAN 6528 and JAN 6511: **2.4 g/100g** — both official pages meet the repository preferred threshold of <=3 g/100g; only JAN 6528 currently has a usable ingredient list.
 - 岩下 国産・25%カット: **3.6 g/100g**.
 - 生姜工房: **6.1 g/100g**.
 
@@ -61,7 +63,8 @@ Issue #3 adds a dose-based screen rather than a synthetic/natural heuristic.
 | Product | Additive status |
 |---|---|
 | 生姜工房 600g | potassium sorbate conditionally passes the <=10% ADI project rule at the Japanese vinegar-pickle legal maximum; acidulant identity unresolved |
-| 業務スーパー 1kg | Red 102 unresolved due unknown concentration; potassium sorbate conditionally passes; stevia unresolved; acidulant identity unresolved |
+| 業務スーパー 1kg / JAN 6528 | Red 102 unresolved due unknown concentration; potassium sorbate conditionally passes; stevia unresolved; acidulant identity unresolved |
+| 業務スーパー 1kg / JAN 6511 | ingredient list unavailable in the accessible official page; no additive screen is transferred from JAN 6528 |
 | 岩下 国産・25%カット | acidulant identity unresolved; no listed sorbate |
 | JFDA 平切 1kg | no additive issue identified from the current simple ingredient list |
 | JFDA 千切り 1kg | Red 102 and Yellow 4 unresolved due unknown concentrations; potassium sorbate conditionally passes; acidulant identity unresolved |
@@ -75,7 +78,7 @@ See `docs/additive-safety-exposure.md` and `data/product-additive-screen.csv`.
 
 Remote verification on 2026-10-02 found **no current Hadano-specific shelf price** that meets the repository evidence rule.
 
-- 業務スーパー秦野店 exists and the 1 kg low-sodium SKU exists at chain level, but the official online listing is currently out of stock and explicitly says store/time pricing differs.
+- 業務スーパー秦野店 exists, but the official site exposes two same-name 1 kg SKUs with different JANs. JAN 6511 is currently shown out of stock online; JAN 6528 has a separate active product page. The actual Hadano SKU/JAN and shelf price are unknown.
 - イオン秦野店 exists; the Topvalu 60 g SKU has a chain-standard price of ¥116.64, but that is not a verified Hadano shelf price.
 - Lopia, York Foods, Belc and MaxValu Hadano targets are verified stores, but ordinary-shelf red-ginger price/stock was not exposed by current web material.
 
