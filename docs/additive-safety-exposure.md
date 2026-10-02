@@ -108,7 +108,7 @@ For a 70 kg adult:
 - 50 g/day product ceiling = 560 mg/kg as steviol equivalents
 - 100 g/day product ceiling = 280 mg/kg as steviol equivalents
 
-The Gyomu Super label states "stevia" but does not disclose the concentration, exact glycoside composition, or steviol-equivalent amount. It therefore cannot yet be quantitatively screened.
+The Gyomu Super **P002 / JAN 4942355166528** label states "stevia" but does not disclose the concentration, exact glycoside composition, or steviol-equivalent amount. It therefore cannot yet be quantitatively screened. This statement does not apply to the separate JAN 4942355166511 SKU unless its ingredient label is independently verified.
 
 Source:
 
