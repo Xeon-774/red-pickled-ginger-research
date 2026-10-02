@@ -1,8 +1,9 @@
-product_id,brand_manufacturer,product_name,shape,net_g,solid_g,ginger_origin,colorant,preservative,sweetener,other_additives,salt_g_per_100g,shelf_life_days,storage,product_source_url,observed_date,evidence_status,unresolved
-P001,生姜工房/サンフレッシュ,紅ショウガ 600g,千切り,600,,中国,赤ダイコン色素,ソルビン酸K,,酸味料;調味料（アミノ酸）,6.1,365,冷暗所;開封後早めに消費,https://item.rakuten.co.jp/syougakoubou/beni-1-1-dm/,2026-10-02,verified,固形量
-P002,神戸物産/業務スーパー,紅千切生姜,千切り,1000,,中国,赤102,ソルビン酸K,ステビア,酸味料;調味料（アミノ酸）,2.4,,直射日光・高温多湿を避ける,https://www.gyomusuper.jp/onlineshop/products/detail/3695,2026-10-02,verified,秦野店価格;固形量;添加物濃度;賞味期限
-P003,岩下食品,国産 岩下の紅生姜 千切り（塩分25%カット）,千切り,50,,日本,野菜色素,,,酸味料;調味料（無機塩等）;カラシ抽出物,3.6,120,,https://iwashita.co.jp/products/shoga/sh_021.html,2026-10-02,verified,固形量;具体的な色素/酸味料/無機塩
-P004,JFDA,紅生姜（平切） 1kg,平切り,1000,,,,,,, ,180,常温,https://www.jfda.co.jp/product/detail398.html,2026-10-02,verified,生姜原産国;固形量;食塩相当量
-P005,JFDA,紅生姜（千切り） 1kg,千切り,1000,,,赤102;黄4,ソルビン酸K,,酸味料;調味料（アミノ酸）,,365,常温,https://www.jfda.co.jp/product/detail395.html,2026-10-02,verified,生姜原産国;固形量;食塩相当量;添加物濃度
-P006,ふみこ農園,紀州ふみこの紅生姜600g,塊,600,500,日本,なし,なし,なし,なし,,180,到着後冷蔵,https://shop.fumiko.co.jp/beni2,2026-10-02,verified,食塩相当量;現行価格
-P007,イオン/トップバリュベストプライス,紅しょうが 60g,千切り,60,,タイ,アカダイコン色素,なし,,酸味料;香料;ビタミンB1,7.83,120,直射日光・高温多湿を避ける,https://www.topvalu.net/items/detail/4901810486755/,2026-10-02,verified,秦野店在庫;秦野店実売価格;固形量
+product_id,brand_manufacturer,product_name,jan,shape,net_g,solid_g,ginger_origin,colorant,preservative,sweetener,other_additives,salt_g_per_100g,shelf_life_days,storage,product_source_url,observed_date,evidence_status,unresolved
+P001,生姜工房/サンフレッシュ,紅ショウガ 600g,,千切り,600,,中国,赤ダイコン色素,ソルビン酸K,,酸味料;調味料（アミノ酸）,6.1,365,冷暗所;開封後早めに消費,https://item.rakuten.co.jp/syougakoubou/beni-1-1-dm/,2026-10-02,verified,固形量
+P002,神戸物産/業務スーパー,紅千切生姜 1kg,4942355166528,千切り,1000,1000,中国,赤102,ソルビン酸K,ステビア,酸味料;調味料（アミノ酸）,2.4,,直射日光・高温多湿を避ける,https://www.gyomusuper.jp/onlineshop/products/detail/3695,2026-10-02,verified,秦野店価格;添加物濃度;賞味期限
+P003,岩下食品,国産 岩下の紅生姜 千切り（塩分25%カット）,,千切り,50,,日本,野菜色素,,,酸味料;調味料（無機塩等）;カラシ抽出物,3.6,120,,https://iwashita.co.jp/products/shoga/sh_021.html,2026-10-02,verified,固形量;具体的な色素/酸味料/無機塩
+P004,JFDA,紅生姜（平切） 1kg,4964988123662,平切り,1000,,,,,,, ,180,常温,https://www.jfda.co.jp/product/detail398.html,2026-10-02,verified,生姜原産国;固形量;食塩相当量
+P005,JFDA,紅生姜（千切り） 1kg,4971181401831,千切り,1000,,,赤102;黄4,ソルビン酸K,,酸味料;調味料（アミノ酸）,,365,常温,https://www.jfda.co.jp/product/detail395.html,2026-10-02,verified,生姜原産国;固形量;食塩相当量;添加物濃度
+P006,ふみこ農園,紀州ふみこの紅生姜600g,,塊,600,500,日本,なし,なし,なし,なし,,180,到着後冷蔵,https://shop.fumiko.co.jp/beni2,2026-10-02,verified,食塩相当量;現行価格
+P007,イオン/トップバリュベストプライス,紅しょうが 60g,4901810486755,千切り,60,,タイ,アカダイコン色素,なし,,酸味料;香料;ビタミンB1,7.83,120,直射日光・高温多湿を避ける,https://www.topvalu.net/items/detail/4901810486755/,2026-10-02,verified,秦野店在庫;秦野店実売価格;固形量
+P008,神戸物産/業務スーパー,紅千切生姜 1kg,4942355166511,千切り,1000,1000,中国,,,,,2.4,,,https://www.gyomusuper.jp/onlineshop/products/detail/4464,2026-10-02,partial_verified,原材料;添加物;賞味期限;秦野店価格;秦野店在庫
