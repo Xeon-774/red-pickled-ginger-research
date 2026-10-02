@@ -25,7 +25,8 @@ Default comparison assumptions:
 - stress-test scenario: 100 g/day
 - additive screening target: <=10% of ADI from one food where a numeric ADI is available
 - sodium target for strong preference: <=3 g salt equivalent / 100 g
-- price normalization: JPY per 100 g of solid edible portion\n- SKU identity: JAN is recorded whenever available; same-name products with different JANs are not merged
+- price normalization: JPY per 100 g of solid edible portion
+- SKU identity: JAN is recorded whenever available; same-name products with different JANs are not merged
 - shipping included where applicable
 - natural vs synthetic origin is not treated as a safety verdict by itself
 - unknown additive concentration is marked uncertain, not guessed
